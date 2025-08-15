@@ -1,0 +1,53 @@
+.snapcard{
+    background-color: rgba(243, 21, 25, 0.956);
+    border-radius: 15px;
+    box-shadow: 20px 10px 30px gray;
+    width: 500px;
+    height: fit-content;
+    align-content: center;
+}
+
+
+img{
+    background-size: cover;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+   display: block;
+   margin: auto;
+    border: 5px solid yellow;
+    margin: top 10px;
+    
+}
+
+
+h1{
+text-align: center;
+font-style:italic;
+font-size: 50px;
+color: yellow;
+}
+
+P{
+    font-size: 25px;
+color: yellow;
+}
+
+div{
+    text-align: center;
+    color: yellow;
+    font-size: 25px;
+}
+
+button{
+    background-color:yellow;
+    color: red;
+    border: 5px solid red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a{
+    display: flex;
+    justify-content:space-around;
+}
